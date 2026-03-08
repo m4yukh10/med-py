@@ -1,0 +1,6 @@
+fastapi[standard]
+SQLAlchemy
+Groq
+tk
+cloudinary
+dotenv
